@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bloxydoge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bloxydoge" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tiago labro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago labro" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dogebloxy - どげいぬ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dogebloxy - どげいぬ" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tiago-labro-31479029b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago labro" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@dogebloxy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dogebloxy - どげいぬ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
