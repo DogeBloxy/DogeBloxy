@@ -1,3 +1,5 @@
+<img src="https://images.squarespace-cdn.com/content/v1/61d3cc4a960d41134f9099d7/1eb60e6a-b46c-4667-9413-6e58f92fa7dd/giphy.gif" alt="Image drôle de Shiba Inu">
+
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 <h3 align="center">A passionate frontend and backend developer from France</h3>
 
