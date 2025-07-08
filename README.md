@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <td>👨‍💻 All of my projects are available at https://dogebloxy.github.io/CV-numerique/
+    <td>👨‍💻 All of my projects are available at https://tiago-labro-cv.netlify.app
       <br><br>📫 How to reach me : <a href="mailto:labrotiago@gmail.com">labrotiago@gmail.com</a>
       <br><br>⚡ Fun fact : I love Shiba Inu !</td>
     <td><img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/06/ezgif-2034782460.gif?fit=1&ssl=1&resize=620%2C4000" alt="shiba inu computer" /></td>
